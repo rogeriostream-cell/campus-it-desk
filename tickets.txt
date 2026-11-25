@@ -1,2 +1,3 @@
 campus IT Support
-Ticket 001: Printer issue - open
+Ticket 001: Printer issue - Resolved
+Ticket 002: Wi-Fi issue - open
